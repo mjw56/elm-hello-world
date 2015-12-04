@@ -1,0 +1,24 @@
+{
+  "name": "elm-hello-world",
+  "version": "1.0.0",
+  "description": "elm hello world app",
+  "main": "Main.elm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elm",
+    "functional",
+    "javascript"
+  ],
+  "author": "Mike Wilcox <mwilcox56@gmail.com> (http://github.com/mjw56)",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-elm": "^1.4.0",
+    "load-grunt-config": "^0.19.1",
+    "load-grunt-tasks": "^3.3.0"
+  }
+}
